@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on IOT project<br><br>I'm currently learning full stack development<br>Ask me about anything related to MERN STACK <br>how to reach me 22cs030raji@gmail.com<br>
+
 
 
 ## 🌐 Socials:
